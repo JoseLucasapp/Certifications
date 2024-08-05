@@ -6,6 +6,6 @@
 </h1>
 
 <h1 align="center">
-  <p></p>
+  <p>AI Assisted Certified Professional</p>
   <img src="AI_Assisted_Certified_Professional.png" width="800" />
 </h1>
