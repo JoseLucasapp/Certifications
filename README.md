@@ -9,3 +9,8 @@
   <p>AI Assisted Certified Professional</p>
   <img src="AI_Assisted_Certified_Professional.png" width="800" />
 </h1>
+
+<h1 align="center">
+  <p>Adobe Commerce: Sales Accreditation (P)</p>
+  <img src="Adobe_Sales_Accredited_Magento_Commerce.png" width="800" />
+</h1>
