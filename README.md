@@ -19,3 +19,8 @@
   <p>Masterclass | algoritmos de machine learning</p>
   <img src="machine_learning.jpg" width="800" />
 </h1>
+
+<h1 align="center">
+  <p>Node and Mongo developer</p>
+  <img src="node.jpg" width="800" />
+</h1>
