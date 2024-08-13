@@ -21,6 +21,6 @@
 </h1>
 
 <h1 align="center">
-  <p>Node and Mongo developer</p>
+  <p>NodeJS and MongoDB developer</p>
   <img src="node.jpg" width="800" />
 </h1>
