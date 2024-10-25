@@ -1,5 +1,7 @@
 # Certifications
 
+This repository contains certificates from courses and specializations I have completed throughout my learning journey. The certificates are organized for easy access and viewing.
+
 <h1 align="center">
   <p>Gen AI Technical</p>
   <img src="Gen_AI_Technical.jpg" width="800" />
