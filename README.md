@@ -24,3 +24,13 @@
   <p>NodeJS and MongoDB developer</p>
   <img src="node.jpg" width="800" />
 </h1>
+
+<h1 align="center">
+  <p>Go(Golang) explorando a linguagem do google</p>
+  <img src="golang.jpg" width="800" />
+</h1>
+
+<h1 align="center">
+  <p>PHP do zero a maestria</p>
+  <img src="php.jpg" width="800" />
+</h1>
