@@ -6,6 +6,11 @@
 </h1>
 
 <h1 align="center">
+  <p>AI Agent Engineer Certification</p>
+  <img src="smythos.png" width="800" />
+</h1>
+
+<h1 align="center">
   <p>AI Assisted Certified Professional</p>
   <img src="AI_Assisted_Certified_Professional.png" width="800" />
 </h1>
@@ -33,4 +38,9 @@
 <h1 align="center">
   <p>PHP do zero a maestria</p>
   <img src="php.jpg" width="800" />
+</h1>
+
+<h1 align="center">
+  <p>The complete Github Actions & Workflows</p>
+  <img src="github.jpg" width="800" />
 </h1>
